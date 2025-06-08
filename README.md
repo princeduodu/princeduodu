@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Projects 
-- 📫 How to reach me Tel : +233245639684
+- 📫 How to reach me email: kofiduodu95@gmail.com 
 
 
 <!---
